@@ -9,7 +9,7 @@
 
 - <img src="https://i.imgur.com/y7jEJp8.png" width="40" height="40"> [Mateus Amorim](https://github.com/MateusAmorim09) 
 
-- <img src="https://i.imgur.com/mLhUjaL.png" width="40" height="40"> [Matheus Pineli](https://github.com/Pinelirxrx) 
+- <img src="https://i.imgur.com/exWO1sX.png" width="40" height="40"> [Matheus Pineli](https://github.com/Pinelirxrx) 
 
 - <img src="https://i.imgur.com/KpQ2s0W.png" width="40" height="40"> [Luca Conti](https://github.com/Lucaaaaaaaaaaaaaaa) 
 
