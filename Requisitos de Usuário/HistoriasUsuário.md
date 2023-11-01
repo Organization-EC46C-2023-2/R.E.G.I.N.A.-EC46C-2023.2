@@ -41,7 +41,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
         <tr>
             <span id="ustory-01"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US04</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">CComo jogador eu gostaria de poder adicionar imagens para representar meus personagens.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como jogador eu gostaria de poder adicionar imagens para representar meus personagens.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O usuário deve ser capaz de colocar uma imagem a sua escolha para representar o personagem durante a construção da ficha</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"> Média </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF10</td>
