@@ -19,3 +19,5 @@
 *Registro Especial de Guerreiros Inexperientes Novatos e Amadores* (R.E.G.I.N.A.) é uma aplicação para criação e gerenciamento de fichas de personagens de D&D 5e (Dungeons & Dragons 5° Edição).
 
 A aplicação terá maior foco em personagens de níveis mais baixos do jogo (dos níveis 1 ao 7) para tornar o ambiente de RPGs de Mesa mais amigáveis para novos jogadores, sendo este nosso público alvo.
+
+[Prototipação](https://www.figma.com/file/Pj9uDVkdNBielDYcfMSvi0/R.E.G.I.N.A.?type=design&node-id=0-1&mode=design&t=w2T3eHbJKW6umv7q-0)
