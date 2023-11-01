@@ -20,7 +20,7 @@
 | RF13 |             Usuário deve ser capaz de alterar suas Magias (se seu personagem possuir algum).                                                   |  Média     |      RF09   |
 | RF14 |            Sistema deve mostrar a opção de Talentos disponíveis para o usuário.                                                                |  Alta      |             |
 | RF15 |                Usuário deve ser capaz de escolher Talentos se disponíveis.                                                                     |    Média   |             |
-| RF16 |       Usuário deve ser capaz de se registrar e se logar na aplicação para manter registro de seus personagens .                                |    Alta    |      RF15   |
+| RF16 |       Usuário deve ser capaz de se registrar e se logar na aplicação para manter registro de seus personagens .                                |    Alta    |             |
 | RF17 |       Usuário deve ser capaz de escolher suas perícias .                                                                                       |      Alta  |             |
 
 
